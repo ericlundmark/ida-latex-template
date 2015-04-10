@@ -5,9 +5,9 @@ Den senaste versionen verkar vara den här
 http://www.ida.liu.se/edu/ugrad/thesis/templates/latex/index.sv.shtml
 
 Lägg till den i ditt latex projekt. Använder du share latex är det bara att ladda upp alla filer till root mappen i projektet.
-#Använd mallen
+#Användning
 Mallen kräver ett par steg för att allt ska se korrekt ut.
-## Inladdning av mallen
+## Inladdning
 Som det står i idathesis.cls ska man ange en av följande i början av huvuddokumentet
 ```latex
 \documentclass[cropmarks, frame, swedish]{idamasterthesis}
