@@ -1,5 +1,5 @@
 # ida-latex-template
-En liten guide för hur man använder latex mallen från Institutionen för datavetenskap (IDA) vid LiU
+En liten guide för hur man använder latexmallen från Institutionen för datavetenskap (IDA) vid LiU
 #Hämta mallen
 Den senaste versionen verkar vara den här
 http://www.ida.liu.se/edu/ugrad/thesis/templates/latex/index.sv.shtml
